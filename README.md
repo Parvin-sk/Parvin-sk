@@ -1,4 +1,4 @@
-![logo](
+![logo](https://github.com/Parvin-sk/Parvin-sk/blob/main/linkedinbackground.jpeg?raw=true)
 
 <h1 align="center">Hi 👋, I'm Parvin Shaik</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
