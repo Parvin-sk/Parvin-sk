@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parvin-sk&label=Profile%20views&color=0e75b6&style=flat" alt="parvin-sk" /> </p>
 
-- 🔭 I’m currently working on **Amazon-clone**
+- 🔭 I’m currently working on **ML-Project**
 
 - 💬 Ask me about **react and Php**
 
