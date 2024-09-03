@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **ML-Project**
 
-- 💬 Ask me about **react and Php**
+- 💬 Ask me about **java and SQL**
 
 - 📫 How to reach me **parvinsk933@gmail.com**
 
